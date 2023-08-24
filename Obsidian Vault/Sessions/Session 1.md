@@ -46,5 +46,5 @@ Medan ni tar stegen upp för trappan som går från bryggan upp till fasta lande
 
 Mannen som trillade ner i vattnet är del av samma arbetarbolag som den försvunna karlen, och kan ha information att ge om natten av hans försvinnande, då de delade barrack. [[Emanuel - Arbetare]] 
 
-När de hjälp till kommer arbetsledaren [[Olof - Arbetsledare]] fråga om de har någon plats att sova här. Han erbjuder sovplats på både arbetarnas barrack och i hans lägenhet vid distilleriet, vilket som skulle föredras.
+När de hjälp till kommer arbetsledaren [[Olof - Arbetsledare]] fråga om de har någon plats att sova här. Han erbjuder sovplats på både [[Arbetarnas barrack]] och i hans [[Lägenhet vid distilleriet]], vilket som skulle föredras.
 
