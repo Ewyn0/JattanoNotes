@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karaktärer/Olof - Arbetsledare.md",
+                "file": "Platser/Arbetarnas barrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karaktärer/Olof - Arbetsledare.md",
+                "file": "Platser/Arbetarnas barrack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Karaktärer/Olof - Arbetsledare.md"
+                "file": "Platser/Arbetarnas barrack.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3563f3bcd4485a86",
+  "active": "99644988065d2067",
   "lastOpenFiles": [
     "Karaktärer/Olof - Arbetsledare.md",
     "Karaktärer/Oden.md",
