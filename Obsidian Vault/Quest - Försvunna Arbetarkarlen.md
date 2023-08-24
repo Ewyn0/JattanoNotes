@@ -1,0 +1,1 @@
+Natten den 20e augusti kom en kvinna ut från djupet av skogen och knackade på fönstret av en man hon har observerat länge. Hon pratar ett slag av norska som är svårt förstådd av karlen. Hon lurar 
