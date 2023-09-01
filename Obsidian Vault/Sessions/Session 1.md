@@ -48,3 +48,21 @@ Mannen som trillade ner i vattnet är del av samma arbetarbolag som den försvun
 
 När de hjälp till kommer arbetsledaren [[Olof - Arbetsledare]] fråga om de har någon plats att sova här. Han erbjuder sovplats på både [[Arbetarnas barrack]] och i hans [[Lägenhet vid distilleriet]], vilket som skulle föredras.
 
+Arbetarna sover i ett långt rum med sängar radade på vardera sida, vissa har knytit fast lakan i taket för att avskilja sina sängar. det finns fyra fönster längst med en väggen. Spelarna kan rulla undersökning för att lista ut vilken säng som är Hugos, genom att läsa hans namn på kläderna och egendomarna som ligger utspridda runt sängen.
+
+**FG1 Vaksamhet**
+En misslyckad rullning gör att de tar längre tid på sig att upptäcka spåren som går ut ur fönstret vid Hugos säng, lyckad rullning ger även informationen av vad han har lämnat kvar, alla sina ägodelar utom första lager kläder, skor, cigaretter och tändstickor.
+Fotspåren syns rätt tydligt, även fast det var en vecka sen de skapades, då marken är så fuktig.
+
+Spåren kan följas från bakre sidan av barracken och leder söderut
+**FG1 Vaksamhet**
+Vid lyckad upptäcker de den andra paret fotspår, och det ser ut som bara fötter.
+
+
+
+**FG2 Vaksamhet**
+Fotspåren leder ut till den geggiga gatan, fotspår är tydliga men det blir svårt att urskilja vilka fotspår som är intressanta.
+
+Om misslyckas: de kan fortsätta gå vart de tror att spåren leder, och leta efter bara fotspår som leder av vägen (**FG1 Vaksamhet**)
+
+När de går på den breda gatan kommer plötsligt någon springandes bakom dem, och med ett dunk krockar den springandes mannen in i spelarna och faller till marken, han tittar upp på dem med skräckslagna ögon, ett panikslaget uttryck

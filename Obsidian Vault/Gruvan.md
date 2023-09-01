@@ -1,4 +1,4 @@
-Arbetarna i gruvan har inte varit nere i gruvan 
+Gruvans arbete har varit nedlagd i två veckor på grund av översvämning.
 
 
 Operationen var platslagd emellan tre vassa bergstoppar, beskogade med tallar som klänger till synlig 
@@ -10,7 +10,8 @@ Ovanför vattenfallen går en linbana med stora mettaliska korgar, tomma nu, men
 Trappstegen går nästan rakt ner, men det finns en handräcke i formen av kedjor, fast i väggen längstmed vänster sida. 
 Det är mörkare än natten bara några meter ner i hålet, det känns onaturligt vilken övergång gruvan skapade när ni tog era första steg ner, för varje steg blir det mörkare och mörkare. 
 
-Ni kommer behöva någon ljuskälla här nere, det finns ett skjul vid motorhuset till linbanan som bör innehålla en oljelampa. 
+Ni kommer behöva någon ljuskälla här nere, det finns ett skjul vid motorhuset till linbanan som bör innehålla en oljelampa (Davy lampa). 
+Davy lampan fungerar som ett mätinstrument då flamman blir mer aggressiv i närheten av brännbara gaser.
 
 
 
