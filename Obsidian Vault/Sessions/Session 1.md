@@ -65,4 +65,8 @@ Fotspåren leder ut till den geggiga gatan, fotspår är tydliga men det blir sv
 
 Om misslyckas: de kan fortsätta gå vart de tror att spåren leder, och leta efter bara fotspår som leder av vägen (**FG1 Vaksamhet**)
 
-När de går på den breda gatan kommer plötsligt någon springandes bakom dem, och med ett dunk krockar den springandes mannen in i spelarna och faller till marken, han tittar upp på dem med skräckslagna ögon, ett panikslaget uttryck
+Om misslyckas: de kommer se en skäggig man (Oden) som pekar åt rätt håll, sen plötsligt försvinner han.
+
+spåren leder dem till tågspåren, där [[Kyrkan]] står bredvid, kyrkan är mörkbrun lackerad trä, det ser ut som den har åldrats hårdare än de andra husen på ön.
+
+Prästen Leopold står vid entren till kyrkan och ser de nya ansiktena, han hälsar och nyfiket och trevligt frågar vad de gör, om partiet berättar att de vill gå till t

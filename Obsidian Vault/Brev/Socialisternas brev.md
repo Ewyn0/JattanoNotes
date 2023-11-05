@@ -1,0 +1,2 @@
+Till Erik, från 'J'.
+"Min kära Erik, jag beklagar innerligt att lämna dig detta brev ty mitt hjärta brister, men mitt sinne kan inte uthärda denna ö längre. Jag delar fortfarande dina ambitioner men jag är inte lika stark som du. Jag har lämnat mina kvarlämnade ägodelar och våra 'verktyg' under östra sidan av bron vid sågverket. Var försiktig, och låt verktygen ligga till tiden är inne. -J"

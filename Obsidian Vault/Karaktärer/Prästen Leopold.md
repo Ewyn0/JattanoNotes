@@ -1,0 +1,1 @@
+ägaren av [[Kyrkan]] 
