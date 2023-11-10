@@ -4,3 +4,4 @@ det finns två ingångar, en på vardera våning, med trappan externt belagd.
 
 Inuti övervåningen finns en liten kamin, ett litet bord vid ett fönster, två stolar, en metallsäng med fjädermadrass. Om spelarna sover i sängen får de rulla för att upptäcka ett brev som ligger under madrassen. Det är ett brev som blivit skickad från en revolutionär till personen som levt här tidigare. Brevet är kärleksfullt från en okänd avsändare, och avslöjar en gömma med vapen som finns vid trähuggeriet.
 
+i gömman finns: En revolver, ett gevär, en bajonet. tolv skott till revolvern, tolv skott till geväret.

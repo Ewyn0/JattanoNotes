@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brev/Socialisternas brev.md",
+                "file": "Gruvan.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brev/Socialisternas brev.md",
+                "file": "Gruvan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brev/Socialisternas brev.md",
+                "file": "Gruvan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brev/Socialisternas brev.md"
+                "file": "Gruvan.md"
               }
             }
           },
@@ -171,17 +171,22 @@
   },
   "active": "0b091757a2f8a504",
   "lastOpenFiles": [
-    "TODO.md",
-    "Brev/Socialisternas brev.md",
-    "Brev",
-    "Platser/Lägenhet vid distilleriet.md",
-    "Meta.md",
-    "Karaktärer/Emanuel - Arbetare.md",
     "Sessions/Session 1.md",
-    "Platser/Kyrkan.md",
+    "Sessions/Session 2.md",
     "Karaktärer/Prästen Leopold.md",
+    "Karaktärer/Olof - Arbetsledare.md",
+    "Karaktärer/Oden.md",
+    "Karaktärer/Emanuel - Arbetare.md",
+    "Karaktärer/Kvinnan som förde bort Hugo.md",
+    "Karaktärer/Jacques.md",
     "Karaktärer/Hugo - den försvunna.md",
     "Gruvan.md",
+    "Platser/Lägenhet vid distilleriet.md",
+    "Brev/Socialisternas brev.md",
+    "TODO.md",
+    "Brev",
+    "Meta.md",
+    "Platser/Kyrkan.md",
     "Platser/Arbetarnas barrack.md"
   ]
 }

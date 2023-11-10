@@ -47,6 +47,7 @@ Medan ni tar stegen upp för trappan som går från bryggan upp till fasta lande
 Mannen som trillade ner i vattnet är del av samma arbetarbolag som den försvunna karlen, och kan ha information att ge om natten av hans försvinnande, då de delade barrack. [[Emanuel - Arbetare]] 
 
 När de hjälp till kommer arbetsledaren [[Olof - Arbetsledare]] fråga om de har någon plats att sova här. Han erbjuder sovplats på både [[Arbetarnas barrack]] och i hans [[Lägenhet vid distilleriet]], vilket som skulle föredras.
+Olof erbjuder de att värma sig och kanske hitta torra kläser i lägenheten.
 
 Arbetarna sover i ett långt rum med sängar radade på vardera sida, vissa har knytit fast lakan i taket för att avskilja sina sängar. det finns fyra fönster längst med en väggen. Spelarna kan rulla undersökning för att lista ut vilken säng som är Hugos, genom att läsa hans namn på kläderna och egendomarna som ligger utspridda runt sängen.
 
@@ -69,4 +70,5 @@ Om misslyckas: de kommer se en skäggig man (Oden) som pekar åt rätt håll, se
 
 spåren leder dem till tågspåren, där [[Kyrkan]] står bredvid, kyrkan är mörkbrun lackerad trä, det ser ut som den har åldrats hårdare än de andra husen på ön.
 
-Prästen Leopold står vid entren till kyrkan och ser de nya ansiktena, han hälsar och nyfiket och trevligt frågar vad de gör, om partiet berättar att de vill gå till t
+Det är ett stort tak över tågets slutplats, med väggar som täcker två sidor av tåget. Tågingenjören Tobias är på plats, han håller på att skruva in någonting i förarhytten. Han ställer gärna upp med att föra partiet till gruvan, då han ofta träffade Hugo och är orolig för honom.
+Han behöver hjälp att lasta på kol i loket, sen kan de åka iväg. Loket är på enden av tåget som är riktad mot byn, alltså måste partiet hålla koll om något skulle vara på spåren och dra i nödbromsen. 

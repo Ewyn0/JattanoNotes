@@ -1,0 +1,1 @@
+Följare av de gamla gudarna, viskar galenskap i Hugos öra.
